@@ -55,8 +55,7 @@ export const Modulo1Page = () => {
         eventoMayus = evento.toUpperCase()
     }
 
-
-
+    
     return (
         <main className="min-h-screen bg-neutral-950 text-neutral-100 antialiased">
             
